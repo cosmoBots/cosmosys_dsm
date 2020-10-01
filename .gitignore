@@ -1,14 +1,4 @@
 /config_rm.py
 /.ipynb_checkpoints
 /__pycache__
-/input_dsm.ods
-/DSMPlanifGRIS.ods
-/input_dsm_old.ods
-/AIV_plan_draft.ods
-/DSM_AIV.ods
-/input_dsm_aiv.ods
-/input_dsm_gris.ods
-/input_dsm_gris2.ods
-/input_dsm_aiv (2).ods
-/input_dsm_gris3.ods
-/input_dsm_gris4.ods
+*.ods
