@@ -4,3 +4,4 @@ rm_key_txt = 'APIKEY'			# The API key of the user (or bot) in which name the act
 rm_status_new_id = 1
 # Project specific settings
 rm_project_id_str = 'loaddsm-tests'		# The ID of the Redmine project where the samples shall be stored
+file_path = 'input_dsm.ods'
